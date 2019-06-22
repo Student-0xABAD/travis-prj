@@ -7,7 +7,7 @@ public class App {
     }
 
     public static void main(String[] args) {
-        var App app = new App();
+        var app = new App();
         System.out.println(app.getGreeting());
     }
 }
